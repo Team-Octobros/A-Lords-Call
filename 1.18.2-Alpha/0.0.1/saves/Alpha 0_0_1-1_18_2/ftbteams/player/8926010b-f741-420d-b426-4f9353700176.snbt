@@ -1,0 +1,17 @@
+{
+	id: "8926010b-f741-420d-b426-4f9353700176"
+	type: "player"
+	player_name: "Wabbabem"
+	ranks: {
+		8926010b-f741-420d-b426-4f9353700176: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Wabbabem"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "8926010b-f741-420d-b426-4f9353700176", date: 1677472600248L, text: "{\"text\":\"So alright this is a thing\"}" }]
+	extra: { }
+}
