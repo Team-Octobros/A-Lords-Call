@@ -1,0 +1,24 @@
+[27Feb2023 00:00:36.791] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Feb2023 00:00:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:overworld
+[27Feb2023 00:00:36.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:the_nether
+[27Feb2023 00:00:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:the_end
+[27Feb2023 00:00:39.389] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[27Feb2023 00:00:39.390] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[27Feb2023 00:00:39.390] [Render thread/INFO] [mezz.jei.forge.startup.ClientLifecycleHandler/]: Stopping JEI
+[27Feb2023 00:00:39.415] [Render thread/INFO] [journeymap/]: Mapping halted in D:\3rd Party Game Clients\CurseForge\Minecraft Modding\Instances\A Lord's Call\journeymap\data\mp\offline\minecraft:overworld
+[27Feb2023 00:00:39.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wabbabem lost connection: Disconnected
+[27Feb2023 00:00:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wabbabem left the game
+[27Feb2023 00:00:39.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[27Feb2023 00:00:39.492] [Server thread/INFO] [MapFrontiers/]: serverStopping done
+[27Feb2023 00:00:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2023 00:00:39.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2023 00:00:39.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2023 00:00:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:overworld
+[27Feb2023 00:00:41.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:the_nether
+[27Feb2023 00:00:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Alpha 0.0.1-1.18.2]'/minecraft:the_end
+[27Feb2023 00:00:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Alpha 0_0_1-1_18_2): All chunks are saved
+[27Feb2023 00:00:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2023 00:00:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2023 00:00:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Feb2023 00:00:41.551] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[27Feb2023 00:00:43.183] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
